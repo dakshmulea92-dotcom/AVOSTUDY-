@@ -1,0 +1,6 @@
+{
+  "name": "AvoStudy — Exam Preparation Planner",
+  "description": "An avocado-themed exam preparation workspace with a weekly timetable planner, subject checklist, focus timer, daily motivation popup, and YouTube study links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
